@@ -1,0 +1,29 @@
+{
+  "blockId": "4SnYjSq_GanamWCSf0pkn",
+  "name": "finaltest11_pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_finaltest11_pack"
+  },
+  "parentBlockIDs": [
+    "PyYB59NMh0-0XKRyH7M6d"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "finaltest11_pack_fn": {
+      "directory": "finaltest11_pack_fn"
+    },
+    "finaltest11_pack_shared": {
+      "directory": "finaltest11_pack_shared"
+    },
+    "finaltest11_pack_pack": {
+      "directory": "finaltest11_pack_pack"
+    }
+  }
+}

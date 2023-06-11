@@ -1,0 +1,39 @@
+{
+  "name": "finaltest11",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_finaltest11"
+  },
+  "dependencies": {
+    "finaltest11_removeTodo": {
+      "directory": "finaltest11_removeTodo"
+    },
+    "finaltest11_listTodos": {
+      "directory": "finaltest11_listTodos"
+    },
+    "finaltest11_addTodo": {
+      "directory": "finaltest11_addTodo"
+    },
+    "finaltest11_todoItem": {
+      "directory": "finaltest11_todoItem"
+    },
+    "finaltest11_todoInput": {
+      "directory": "finaltest11_todoInput"
+    },
+    "finaltest11_todoContainer": {
+      "directory": "finaltest11_todoContainer"
+    },
+    "finaltest11_pack": {
+      "directory": "finaltest11_pack"
+    }
+  },
+  "blockId": "PyYB59NMh0-0XKRyH7M6d",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
