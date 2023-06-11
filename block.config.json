@@ -2,8 +2,8 @@
   "name": "finaltest11",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/finaltest11.git",
+    "ssh": "git@github.com:uttahb/finaltest11.git",
     "branch": "block_finaltest11"
   },
   "dependencies": {

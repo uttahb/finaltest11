@@ -2,8 +2,8 @@
   "name": "finaltest11_todoItem",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/uttahb/finaltest11.git",
+    "ssh": "git@github.com:uttahb/finaltest11.git",
     "branch": "block_finaltest11_todoItem"
   },
   "language": "js",
